@@ -250,7 +250,7 @@ Our Development Process
       Deploy, optimize, document, and support the product.
     </td>
   </tr>
-</table>---
+</table>
 
 Let's Build Something Together
 
