@@ -160,6 +160,24 @@ Technology Stack
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>Potential applications include AI assistants, document processing, retrieval-augmented generation (RAG), semantic search, text classification, summarization, and AI-powered business automation.
+Quantum Computing & Optimization
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Quantum_Computing-6C3FC5?style=for-the-badge" alt="Quantum Computing" />
+  <img src="https://img.shields.io/badge/Quantum_Optimization-0B1F3A?style=for-the-badge" alt="Quantum Optimization" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white" alt="Qiskit" />
+  <img src="https://img.shields.io/badge/PennyLane-00A1E0?style=for-the-badge" alt="PennyLane" />
+  <img src="https://img.shields.io/badge/Google_Cirq-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cirq" />
+</p>Exploring quantum computing techniques and optimization methods for complex computational problems.
+
+Areas of interest and development:
+
+- Quantum Optimization: Exploring approaches to combinatorial and constrained optimization problems.
+- QAOA: Quantum Approximate Optimization Algorithm for suitable discrete optimization problems.
+- VQE: Variational Quantum Eigensolver for applicable quantum chemistry and optimization tasks.
+- Hybrid Quantum-Classical Computing: Combining classical optimization algorithms with quantum circuits.
+- Optimization Applications: Scheduling, resource allocation, routing, portfolio optimization, and related problem domains.
+- Quantum Algorithm Simulation: Prototyping and evaluating quantum algorithms using simulators and available quantum computing frameworks.
 
 7. Computer Vision & Object Detection
 
