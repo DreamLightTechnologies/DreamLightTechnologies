@@ -270,7 +270,7 @@ Let's turn your vision into a working solution.
   <a href="https://dream-light-technologies.com">dream-light-technologies.com</a>
   <br/><br/>
   <strong>Email</strong><br/>
-  <a href="mailto:rnbprasad@zohomail.in">rnbprasad@zohomail.in</a>
+  <a href="mailto:rnbprasad@zohomail.in">dreamlightechnologies@zohomail.in</a>
   <br/><br/>
   <strong>Project Inquiries</strong><br/>
   <a href="tel:+917997906658">+91 7997906658</a>
