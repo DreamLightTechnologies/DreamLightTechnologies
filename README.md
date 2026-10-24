@@ -13,7 +13,7 @@ Dream Light Technologies
   <img src="https://img.shields.io/badge/Mobile-Development-1572B6?style=flat-square" alt="Mobile Development" />
   <img src="https://img.shields.io/badge/AI-Computer_Vision-6C3FC5?style=flat-square" alt="AI and Computer Vision" />
   <img src="https://img.shields.io/badge/UI%2FUX-Design-C89B4A?style=flat-square" alt="UI/UX Design" />
-</p>---
+</p>
 
 About Us
 
@@ -32,7 +32,6 @@ What We Focus On
 - Database design, cloud services, and API integrations
 - Maintainable software, testing, deployment, and support
 
----
 
 Our Services
 
