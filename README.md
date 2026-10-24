@@ -274,7 +274,7 @@ Let's turn your vision into a working solution.
   <br/><br/>
   <strong>Project Inquiries</strong><br/>
   <a href="tel:+917997906658">+91 7997906658</a>
-</p>---
+</p>
 
 <p align="center">
   <strong>Dream Light Technologies</strong>
